@@ -12,5 +12,6 @@ public class HelloJ {
             logger.error("error calculation", e);
         }
         logger.info("here is the revision sent 2 head");
+        logger.info("here the v1.0.0 complete");
     }
 }
