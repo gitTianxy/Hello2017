@@ -15,5 +15,6 @@ public class HelloJ {
         logger.info("here the v1.0.0 complete");
         logger.info("here is the 'dev' branch begins");
         logger.info("here is the 'dev' branch finish");
+        logger.info("here is other's revision on 'dev' branch");
     }
 }
