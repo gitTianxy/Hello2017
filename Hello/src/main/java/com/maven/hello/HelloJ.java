@@ -20,5 +20,6 @@ public class HelloJ {
         logger.info("here is the 'kevin-dev' branch finish");
         logger.info("here kevin add another line");
         logger.info("here we got some revion at " + System.currentTimeMillis());
+        logger.info("now kevin finished his work");
     }
 }
