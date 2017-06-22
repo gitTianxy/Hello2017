@@ -11,5 +11,6 @@ public class HelloJ {
         } catch (Exception e) {
             logger.error("error calculation", e);
         }
+        logger.info("here is the revision sent 2 head");
     }
 }
