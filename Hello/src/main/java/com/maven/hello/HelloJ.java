@@ -12,5 +12,6 @@ public class HelloJ {
             logger.error("error calculation", e);
         }
         logger.info("here is revision posed by zhang");
+        logger.info("here is wang's revision");
     }
 }
