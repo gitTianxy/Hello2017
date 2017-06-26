@@ -13,5 +13,6 @@ public class HelloJ {
         }
         logger.info("here is revision posed by zhang");
         logger.info("here is wang's revision");
+        logger.info("here is zhang revision 02");
     }
 }
