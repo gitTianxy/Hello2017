@@ -11,9 +11,6 @@ public class HelloJ {
         } catch (Exception e) {
             logger.error("error calculation", e);
         }
-        logger.info("here is the revision sent 2 head");
-        logger.info("here the v1.0.0 complete");
-        logger.info("here is the 'dev' branch begins");
-        logger.info("here is the 'dev' branch finish");
+        logger.info("here is revision posed by zhang");
     }
 }
